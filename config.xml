@@ -1,6 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.phonegap.phonecall" version="1.0.0">
-  <name>CountDownApp</name>
-  <description>We play with numbers !</description>
+  <name>NH</name>
+  <description>Countdown Begins.!</description>
   <author href="http://phonegap.com" email="nirav.soni@matrixcomsec.com">Nirav Soni</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
